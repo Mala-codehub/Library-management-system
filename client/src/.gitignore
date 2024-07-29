@@ -1,0 +1,23 @@
+# Ignore specific files in the public directory
+public/manifest.json
+public/robots.txt
+
+# Ignore specific files in the src directory
+src/reportWebVitals.js
+src/setupTests.js
+
+# Ignore the README.md file
+README.md
+
+# Ignore package-lock.json file
+package-lock.json
+
+# Ignore backend and frontend directories
+myapp-backend/
+myapp-frontend/
+
+# Ignore node_modules directory in the frontend
+myapp-frontend/node_modules/
+
+# Ignore manifest.json in the public directory of the frontend
+myapp-frontend/public/manifest.json

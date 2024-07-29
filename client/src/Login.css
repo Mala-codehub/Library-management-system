@@ -1,0 +1,16 @@
+.id {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    height: 100vh;
+    padding-top: 100px; /* Adjust this value as needed */
+}
+.btn {
+    margin: 20px auto; /* Top/bottom 20px, left/right auto (centered) */
+}
+.btn{
+    margin-right: 30px;
+}
+.spc{
+    margin-top: 20px;
+}

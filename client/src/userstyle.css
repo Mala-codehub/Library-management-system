@@ -1,0 +1,12 @@
+.header {
+    padding: 1rem 0;
+    background-color: #f8f9fa; /* Light background color for the header */
+    
+  }
+  
+  .header .col {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
